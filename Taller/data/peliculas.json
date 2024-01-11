@@ -1,0 +1,45 @@
+[
+  {
+    "id": "P01",
+    "nombre": "for"
+  },
+  {
+    "id": "45",
+    "nombre": "xxxx",
+    "duracion": 56,
+    "sinopsis": "ggg"
+  },
+  {
+    "id": "03",
+    "nombre": "cars",
+    "duracion": 45,
+    "sinopsis": "fff",
+    "genero": "G02"
+  },
+  {
+    "id": "78",
+    "nombre": "ddd",
+    "duracion": 45,
+    "sinopsis": "fff",
+    "genero": "G02"
+  },
+  {
+    "id": "67",
+    "nombre": "ttt",
+    "duracion": 66,
+    "sinopsis": "ggg",
+    "genero_id": "G02",
+    "genero_nombre": "Comedia"
+  },
+  {
+    "id": "5555",
+    "nombre": "gggg",
+    "duracion": 67,
+    "sinopsis": "yyy",
+    "genero_id": "001",
+    "genero_nombre": "Carlos",
+    "rol_actor": "protagonista",
+    "formato_id": "F01",
+    "formato_nombre": "DVD"
+  }
+]
